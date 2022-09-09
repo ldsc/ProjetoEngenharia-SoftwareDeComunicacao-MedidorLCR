@@ -1,3 +1,7 @@
+Título do projeto: "Software de Comunicação com o Medidor de LCR"
+Integrantes: Atila Júnior, Giovanna Massardi e Marcelo Bernardo
+2022/2
+
 # Etapas para criar seu projeto de engenharia
 
 Um SCV - Sistema de Controle de Versões permite gerenciar versões de arquivos. 
